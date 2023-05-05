@@ -1,2 +1,2 @@
-# final_project_ese441
+# Final Project
 Final project for Control Systems, spring 2023
